@@ -77,8 +77,8 @@ void loop(){
   ```
 
 
-### Distance vs measurement table 
-###OUTPUT
+
+**###OUTPUT**
 ![image](https://user-images.githubusercontent.com/94154531/168077867-729ca438-ab88-477f-b212-b00b0a9d00f6.png)
 
 
@@ -89,7 +89,9 @@ void loop(){
 
 
 
-### RESULTS
+**### RESULTS**
+Thus, the distance is measured with ultrasonic sensor...!
+
 
 
 
